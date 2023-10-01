@@ -1,5 +1,4 @@
 // 12S23023 - Lenni febriyani
-
 import java.util.*;
 import java.lang.Math;
 
