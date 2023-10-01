@@ -1,4 +1,4 @@
-//12S23023 -Lenni febriyai
+//12S23023 - Lenni febriyani
 
 import java.util.*;
 import java.lang.Math;
